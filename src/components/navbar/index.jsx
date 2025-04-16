@@ -27,7 +27,7 @@ const Navbar = () => {
           Blog
         </h3>
       </div>
-      <div className="flex items-center justify-center gap-6">
+      <div className="flex items-center justify-center gap-[30px]">
         <SearchOutlined className="cursor-pointer text-[20px]" />
         <ShoppingCartOutlined className="cursor-pointer text-[20px]" />
         <button className="w-[100px] h-[35px] bg-[#46A358] rounded-[6px] text-white  flex items-center justify-center cursor-pointer gap-2">
