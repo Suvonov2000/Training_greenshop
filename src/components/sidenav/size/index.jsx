@@ -1,6 +1,6 @@
 const Size = () => {
   return (
-    <div>
+    <div className="mt-[38px]">
       <h3 className="font-bold">Size</h3>
       <div className="pl-[12px] w-full">
         <div className="w-full flex items-center justify-between mt-[7px] hover:text-[#46A358] cursor-pointer">
